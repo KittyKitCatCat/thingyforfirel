@@ -1,0 +1,5 @@
+{
+  "redstone_pulse": { "sounds":["thingyforfirel:redstone_pulse"], "subtitle": "thingyforfirel.subtitle.redstone_pulse" },
+  "netherborne": { "sounds":["thingyforfirel:netherborne"], "subtitle": "thingyforfirel.subtitle.netherborne" },
+  "skeletons_in_the_night": { "sounds":["thingyforfirel:skeletons_in_the_night"], "subtitle": "thingyforfirel.subtitle.skeletons_in_the_night" }
+}
